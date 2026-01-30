@@ -13,6 +13,11 @@ DTEND;TZID=Europe/Istanbul:20260130T010000
 SUMMARY:⚽ FCSB vs Fenerbahçe (Avrupa)
 CATEGORIES:Fenerbahçe\,Football
 DESCRIPTION:Kanal: TRT 1
+BEGIN:VALARM
+TRIGGER:-PT60M
+ACTION:DISPLAY
+DESCRIPTION:Maç başlamak üzere (60 dk kaldı).
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:4970d420-ee6c-4a33-8c40-c79b71f097d3@chatgpt
@@ -22,6 +27,11 @@ DTEND;TZID=Europe/Istanbul:20260202T220000
 SUMMARY:⚽ Fenerbahçe vs Kocaelispor (Süper Lig)
 CATEGORIES:Fenerbahçe\,Football
 DESCRIPTION:Kanal: beIN SPORTS
+BEGIN:VALARM
+TRIGGER:-PT60M
+ACTION:DISPLAY
+DESCRIPTION:Maç başlamak üzere (60 dk kaldı).
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:cd171a51-85d7-410e-8432-991276bdf3cf@chatgpt
@@ -31,6 +41,11 @@ DTEND;TZID=Europe/Istanbul:20260209T220000
 SUMMARY:⚽ Fenerbahçe vs Gençlerbirliği (Süper Lig)
 CATEGORIES:Fenerbahçe\,Football
 DESCRIPTION:Kanal: beIN SPORTS
+BEGIN:VALARM
+TRIGGER:-PT60M
+ACTION:DISPLAY
+DESCRIPTION:Maç başlamak üzere (60 dk kaldı).
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:0121228e-8a11-4dc3-9f8a-9d8ec0b04aeb@chatgpt
@@ -40,6 +55,11 @@ DTEND;TZID=Europe/Istanbul:20260214T220000
 SUMMARY:⚽ Trabzonspor vs Fenerbahçe (Süper Lig)
 CATEGORIES:Fenerbahçe\,Football
 DESCRIPTION:Kanal: beIN SPORTS
+BEGIN:VALARM
+TRIGGER:-PT60M
+ACTION:DISPLAY
+DESCRIPTION:Maç başlamak üzere (60 dk kaldı).
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:312091b9-57f3-4ecc-8a66-f07f92eac3d4@chatgpt
@@ -49,6 +69,11 @@ DTEND;TZID=Europe/Istanbul:20260205T233000
 SUMMARY:⚽ Fenerbahçe vs Erzurumspor FK (Türkiye Kupası)
 CATEGORIES:Fenerbahçe\,Football
 DESCRIPTION:Kanal: A Spor / ATV
+BEGIN:VALARM
+TRIGGER:-PT60M
+ACTION:DISPLAY
+DESCRIPTION:Maç başlamak üzere (60 dk kaldı).
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:0a6e538d-bed8-40fa-aaf7-ba0f2075d4fe@chatgpt
@@ -58,6 +83,11 @@ DTEND;VALUE=DATE:20260223
 SUMMARY:⚽ Fenerbahçe vs Kasımpaşa (Süper Lig) - Saat TBD
 CATEGORIES:Fenerbahçe\,Football
 DESCRIPTION:Kanal: beIN SPORTS
+BEGIN:VALARM
+TRIGGER:-PT60M
+ACTION:DISPLAY
+DESCRIPTION:Maç başlamak üzere (60 dk kaldı).
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:a832b489-ba91-44a2-b4d4-774eca2b63fb@chatgpt
@@ -67,6 +97,11 @@ DTEND;VALUE=DATE:20260302
 SUMMARY:⚽ Antalyaspor vs Fenerbahçe (Süper Lig) - Saat TBD
 CATEGORIES:Fenerbahçe\,Football
 DESCRIPTION:Kanal: beIN SPORTS
+BEGIN:VALARM
+TRIGGER:-PT60M
+ACTION:DISPLAY
+DESCRIPTION:Maç başlamak üzere (60 dk kaldı).
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:fe776011-4660-465a-ac9d-fd6a2b4a3976@chatgpt
@@ -76,6 +111,11 @@ DTEND;VALUE=DATE:20260309
 SUMMARY:⚽ Fenerbahçe vs Samsunspor (Süper Lig) - Saat TBD
 CATEGORIES:Fenerbahçe\,Football
 DESCRIPTION:Kanal: beIN SPORTS
+BEGIN:VALARM
+TRIGGER:-PT60M
+ACTION:DISPLAY
+DESCRIPTION:Maç başlamak üzere (60 dk kaldı).
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:31f8f920-a385-44d4-b514-648df58c9409@chatgpt
@@ -85,6 +125,11 @@ DTEND;VALUE=DATE:20260316
 SUMMARY:⚽ Fatih Karagümrük vs Fenerbahçe (Süper Lig) - Saat TBD
 CATEGORIES:Fenerbahçe\,Football
 DESCRIPTION:Kanal: beIN SPORTS
+BEGIN:VALARM
+TRIGGER:-PT60M
+ACTION:DISPLAY
+DESCRIPTION:Maç başlamak üzere (60 dk kaldı).
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:c39bb341-1f93-40b2-94b8-70064a76150f@chatgpt
@@ -94,6 +139,11 @@ DTEND;VALUE=DATE:20260319
 SUMMARY:⚽ Fenerbahçe vs Gaziantep FK (Süper Lig) - Saat TBD
 CATEGORIES:Fenerbahçe\,Football
 DESCRIPTION:Kanal: beIN SPORTS
+BEGIN:VALARM
+TRIGGER:-PT60M
+ACTION:DISPLAY
+DESCRIPTION:Maç başlamak üzere (60 dk kaldı).
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:4fb3930e-3ef4-467d-ae87-e3a6ca97485d@chatgpt
@@ -103,6 +153,11 @@ DTEND;TZID=Europe/Istanbul:20260204T003000
 SUMMARY:🏀 FC Barcelona vs Fenerbahçe Beko (EuroLeague)
 CATEGORIES:Fenerbahçe\,Basketball\,EuroLeague
 DESCRIPTION:Kanal: S Sport
+BEGIN:VALARM
+TRIGGER:-PT60M
+ACTION:DISPLAY
+DESCRIPTION:Maç başlamak üzere (60 dk kaldı).
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:06d97859-0a60-45ee-8d09-d13fe76433be@chatgpt
@@ -112,6 +167,11 @@ DTEND;TZID=Europe/Istanbul:20260206T004500
 SUMMARY:🏀 Paris Basketball vs Fenerbahçe Beko (EuroLeague)
 CATEGORIES:Fenerbahçe\,Basketball\,EuroLeague
 DESCRIPTION:Kanal: S Sport
+BEGIN:VALARM
+TRIGGER:-PT60M
+ACTION:DISPLAY
+DESCRIPTION:Maç başlamak üzere (60 dk kaldı).
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:e90a5758-4217-4964-aeed-69915f78bcad@chatgpt
@@ -121,6 +181,11 @@ DTEND;TZID=Europe/Istanbul:20260214T001500
 SUMMARY:🏀 Panathinaikos AKTOR Athens vs Fenerbahçe Beko (EuroLeague)
 CATEGORIES:Fenerbahçe\,Basketball\,EuroLeague
 DESCRIPTION:Kanal: S Sport
+BEGIN:VALARM
+TRIGGER:-PT60M
+ACTION:DISPLAY
+DESCRIPTION:Maç başlamak üzere (60 dk kaldı).
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:e1c77956-2416-414f-8374-a788c701755e@chatgpt
@@ -130,6 +195,11 @@ DTEND;TZID=Europe/Istanbul:20260225T224500
 SUMMARY:🏀 Fenerbahçe Beko vs Partizan (EuroLeague)
 CATEGORIES:Fenerbahçe\,Basketball\,EuroLeague
 DESCRIPTION:Kanal: S Sport
+BEGIN:VALARM
+TRIGGER:-PT60M
+ACTION:DISPLAY
+DESCRIPTION:Maç başlamak üzere (60 dk kaldı).
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:389d5d18-813b-4cdf-aad5-e961abde0151@chatgpt
@@ -139,6 +209,11 @@ DTEND;TZID=Europe/Istanbul:20260305T224500
 SUMMARY:🏀 Fenerbahçe Beko vs AS Monaco (EuroLeague)
 CATEGORIES:Fenerbahçe\,Basketball\,EuroLeague
 DESCRIPTION:Kanal: S Sport
+BEGIN:VALARM
+TRIGGER:-PT60M
+ACTION:DISPLAY
+DESCRIPTION:Maç başlamak üzere (60 dk kaldı).
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:37e06e77-d7d8-4263-af77-52c0e4fdc4a8@chatgpt
@@ -148,6 +223,11 @@ DTEND;TZID=Europe/Istanbul:20260314T000000
 SUMMARY:🏀 Crvena Zvezda vs Fenerbahçe Beko (EuroLeague)
 CATEGORIES:Fenerbahçe\,Basketball\,EuroLeague
 DESCRIPTION:Kanal: S Sport
+BEGIN:VALARM
+TRIGGER:-PT60M
+ACTION:DISPLAY
+DESCRIPTION:Maç başlamak üzere (60 dk kaldı).
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:0007f11a-41de-479f-b89d-e291425c7a31@chatgpt
@@ -157,6 +237,11 @@ DTEND;TZID=Europe/Istanbul:20260320T224500
 SUMMARY:🏀 Fenerbahçe Beko vs EA7 Emporio Armani Milan (EuroLeague)
 CATEGORIES:Fenerbahçe\,Basketball\,EuroLeague
 DESCRIPTION:Kanal: S Sport
+BEGIN:VALARM
+TRIGGER:-PT60M
+ACTION:DISPLAY
+DESCRIPTION:Maç başlamak üzere (60 dk kaldı).
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:65cb8ad1-da57-41da-bcca-684a609275f5@chatgpt
@@ -166,6 +251,11 @@ DTEND;TZID=Europe/Istanbul:20260325T000500
 SUMMARY:🏀 Maccabi Tel Aviv vs Fenerbahçe Beko (EuroLeague)
 CATEGORIES:Fenerbahçe\,Basketball\,EuroLeague
 DESCRIPTION:Kanal: S Sport
+BEGIN:VALARM
+TRIGGER:-PT60M
+ACTION:DISPLAY
+DESCRIPTION:Maç başlamak üzere (60 dk kaldı).
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:86c1d3d9-470e-4c78-84da-8e1d834c87cc@chatgpt
@@ -175,6 +265,11 @@ DTEND;TZID=Europe/Istanbul:20260327T224500
 SUMMARY:🏀 Fenerbahçe Beko vs Žalgiris Kaunas (EuroLeague)
 CATEGORIES:Fenerbahçe\,Basketball\,EuroLeague
 DESCRIPTION:Kanal: S Sport
+BEGIN:VALARM
+TRIGGER:-PT60M
+ACTION:DISPLAY
+DESCRIPTION:Maç başlamak üzere (60 dk kaldı).
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:e2016424-1128-4f35-9f0c-0b8bb1af3b64@chatgpt
@@ -184,6 +279,11 @@ DTEND;TZID=Europe/Istanbul:20260403T233000
 SUMMARY:🏀 FC Bayern Munich vs Fenerbahçe Beko (EuroLeague)
 CATEGORIES:Fenerbahçe\,Basketball\,EuroLeague
 DESCRIPTION:Kanal: S Sport
+BEGIN:VALARM
+TRIGGER:-PT60M
+ACTION:DISPLAY
+DESCRIPTION:Maç başlamak üzere (60 dk kaldı).
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:7a88707c-5466-4822-bc5a-0d3765cf3ac9@chatgpt
@@ -193,6 +293,11 @@ DTEND;TZID=Europe/Istanbul:20260407T230000
 SUMMARY:🏀 Hapoel Tel Aviv vs Fenerbahçe Beko (EuroLeague)
 CATEGORIES:Fenerbahçe\,Basketball\,EuroLeague
 DESCRIPTION:Kanal: S Sport
+BEGIN:VALARM
+TRIGGER:-PT60M
+ACTION:DISPLAY
+DESCRIPTION:Maç başlamak üzere (60 dk kaldı).
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:9a9a1e12-4168-4626-944b-62631dba1ec5@chatgpt
@@ -202,6 +307,11 @@ DTEND;TZID=Europe/Istanbul:20260409T224500
 SUMMARY:🏀 Fenerbahçe Beko vs Real Madrid (EuroLeague)
 CATEGORIES:Fenerbahçe\,Basketball\,EuroLeague
 DESCRIPTION:Kanal: S Sport
+BEGIN:VALARM
+TRIGGER:-PT60M
+ACTION:DISPLAY
+DESCRIPTION:Maç başlamak üzere (60 dk kaldı).
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:673555d0-d21a-4462-87e4-a6fcfcd2a021@chatgpt
@@ -211,5 +321,10 @@ DTEND;TZID=Europe/Istanbul:20260416T230000
 SUMMARY:🏀 LDLC ASVEL vs Fenerbahçe Beko (EuroLeague)
 CATEGORIES:Fenerbahçe\,Basketball\,EuroLeague
 DESCRIPTION:Kanal: S Sport
+BEGIN:VALARM
+TRIGGER:-PT60M
+ACTION:DISPLAY
+DESCRIPTION:Maç başlamak üzere (60 dk kaldı).
+END:VALARM
 END:VEVENT
 END:VCALENDAR
